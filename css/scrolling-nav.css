@@ -1,0 +1,40 @@
+/* vim: ts=2 sts=2 sw=2 et ai :
+/*!
+ * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/template/scrolling-nav)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-scrolling-nav/blob/master/LICENSE)
+ */
+
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans:wght@800;900&display=swap');
+
+header {
+  padding: 156px 0 100px;
+  margin-top: 50px;
+  background-image: url("../../assets/img/celaeno-head.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+}
+@media (min-width: 547px) {
+  header {
+    min-height: 400px;
+  }
+}
+
+.navbar-brand {
+  font-family: 'Alegreya Sans', sans-serif;
+}
+
+
+section {
+  padding: 3rem 0;
+}
+
+section h2 {
+  text-align: center;
+  text-transform: uppercase;
+  font-family: 'Alegreya Sans', sans-serif;
+}
+
+.navbar-brand {
+  text-transform: uppercase;
+}
