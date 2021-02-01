@@ -38,3 +38,12 @@ section h2 {
 .navbar-brand {
   text-transform: uppercase;
 }
+
+.copyright, .contacts {
+  color: rgba(255, 255, 255, 0.5);
+}
+
+.contacts:hover {
+  font-weight: bold;
+  color: rgba(255, 255, 255, 0.75);
+}
